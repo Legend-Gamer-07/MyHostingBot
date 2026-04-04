@@ -27,12 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "/skin url "https://minesk.in/504e8c352807456e9c7691659b43ab8f" classic",
         "I like to play Minecraft!"
       ]
     },
@@ -78,10 +77,10 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
-    "respond": false
+    "respond": true
   }
 }
