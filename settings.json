@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": false,
+      "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "/skin url "https://minesk.in/504e8c352807456e9c7691659b43ab8f" classic",
